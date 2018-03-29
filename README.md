@@ -1,6 +1,6 @@
 # pcmeile
 
-> A Vue.js project
+> A Vue.js project 
 
 ## Build Setup
 
@@ -23,7 +23,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## 技术栈
 
-vue@2.0 +  vue-router@3.2.0 + webpack@3.10.0  + less@2.7.1 
+vue@2.0 +  vue-router@3.2.0 + webpack@3.10.0  + less@2.7.1 + element-ui
 
 
 
