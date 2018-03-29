@@ -31,9 +31,9 @@ vue@2.0 +  vue-router@3.2.0 + webpack@3.10.0  + less@2.7.1
 
 #### 注意：由于涉及 ES6/7 等新属性，nodejs 必须是 6.0 以上版本 ，建议使用 node 最新LTS版
 ## 说明
-``` bash
+
 > 最低兼容ipa，，本地数据兼容ios、Android、pc indexeDB扩展
-```
+
 
 
 
