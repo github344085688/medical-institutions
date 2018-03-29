@@ -34,11 +34,6 @@ vue@2.0 +  vue-router@3.2.0 + webpack@3.10.0  + less@2.7.1
 
 > 最低兼容ipa，，本地数据兼容ios、Android、pc indexeDB扩展
 
-
-
-
-
->  开发环境 win10  Chrome 63.0.3239.132（正式版本） （32 位） nodejs 8.7.0
 <img src="http://web.zayata.com/lockes/images/20180328135695.jpg?page=2017" >
 <img src="http://web.zayata.com/lockes/images/20180328135675.jpg?page=2017" >
 <img src="http://web.zayata.com/lockes/images/20180328135685.jpg?page=2017" >
